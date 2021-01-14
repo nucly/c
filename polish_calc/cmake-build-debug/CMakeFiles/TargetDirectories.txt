@@ -1,0 +1,3 @@
+/Users/dariuszkaminski/github/c/polish_calc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dariuszkaminski/github/c/polish_calc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dariuszkaminski/github/c/polish_calc/cmake-build-debug/CMakeFiles/polish_calc.dir

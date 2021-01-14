@@ -1,11 +1,12 @@
 #include <stdio.h>
+#include "calc.h"
 
 #define MAXVAL 100
 
-int sp = 0;
-double val[MAXVAL];
+static int sp = 0;
+static double val[MAXVAL];
 
-void push(double f) 
+void push(double f)
 {
     if (sp < MAXVAL)
         val[sp++] = f;

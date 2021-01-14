@@ -1,14 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "polish_calc.h"
-#include "funcs.c"
+#include "calc.h"
 
 #define MAXOP 100
-#define NUMBER '0'
 
 int main(void)
 {
-
     int type;
     double op2;
     char s[MAXOP];
